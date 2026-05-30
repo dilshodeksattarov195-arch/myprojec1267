@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterderify",
+        "uuid": 5783855,
+        "checksum": "esa1cr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
